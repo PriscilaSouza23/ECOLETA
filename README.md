@@ -1,19 +1,4 @@
 # ECOLETA
-<h1 align="center">
-    <img src="public/readmelogo.jpg" alt="Logomarca">
-</h1>
-
-<h1 align="center">
-    <img src="public/readmegif.gif">
-</h1>
-
-# Indice
-- [Sobre](#-Sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-porjeto)
-
----
-
 
 ## 🔖 Sobre
 
